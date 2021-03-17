@@ -1,0 +1,78 @@
+*{
+    background-color:none;
+}
+
+    
+
+.image,.SELF,.Skill,.hobby,.contact{
+    color:black;
+}
+
+.image{
+    background-image:url("int.jpeg");
+    background-repeat: no-repeat;
+   background-position: center ;
+   width:1000px
+   height:800px;
+   padding:30px;
+   padding-right:none;
+  
+   
+    
+}
+h1{
+    background-color: none;
+    color:white;
+    font-family:cursive;
+    font-size:55px;
+    text-align:center;
+
+}
+img{
+    float:right;
+    padding:30px;
+    
+}
+.SELF{
+    font-family:cursive;
+    color:black;;
+    background-color:palegoldenrod;
+    
+}
+.Skill{
+    font-family: cursive;
+    padding:30px;
+    background-color:lightblue;
+    
+}
+h2{
+    color:blue;
+    background-color:seashell;
+    font-weight:bold;
+    pading:20px;
+    text-align:center;
+    font-size:40px;
+}
+.in{
+    color:black;
+    font-family:cursive;
+    padding:30px;
+    background-color:lightgreen;
+}
+.contact{
+    font-family: cursive;
+    padding:30px;
+    background-color:lightblue;
+}
+.hobby{
+    font-family: cursive;
+    padding:30px;
+    background-color:lightblue;
+}
+
+
+    
+
+
+
+
